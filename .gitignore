@@ -1,3 +1,6 @@
 myenv/
 .env
 database.db
+ChromaDB/
+Build a Large Language Model (From Scratch) MEAP V08 - Unknown.pdf
+__pycache__/
